@@ -1,2 +1,2 @@
-# rtb-nginx-blacklist
-A blacklist filter made for Nginx, for RTB environments
+# rtb-resty-blacklist
+A blacklist filter made for OpenResty, for RTB environments
